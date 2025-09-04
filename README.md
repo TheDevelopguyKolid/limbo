@@ -31,4 +31,4 @@ the web-browser.
 
 Contact me on discord @enthalo if you find bugs.
 
-This project is running on chromium.
+This project is running on chromium, and Is also open source.
